@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8029: El directorio intermedio o el directorio de salida no pueden estar en el directorio temporal, ya que podría dar lugar a problemas con la compilación incremental.
+  Recreativos.cpp
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(25,9): warning C4129: '(': secuencia de escape de carácter no reconocida
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(44,10): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(44,10): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(44,10): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(44,10): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(185,10): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(185,10): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(185,10): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(185,10): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(201,10): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(201,10): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(201,10): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(201,10): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(217,10): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(217,10): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(217,10): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(217,10): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(232,10): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(232,10): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(232,10): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(232,10): message : este argumento se utiliza como un tamaño de búfer
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(247,10): warning C4473: "scanf_s": no se pasaron suficientes argumentos para la cadena de formato
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(247,10): message : los marcadores de posición y sus parámetros esperan 2 argumentos variádicos, pero se proporcionaron 1
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(247,10): message : el argumento variádico 2 que falta es requerido por la cadena de formato '%c'
+C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\Recreativos\Recreativos.cpp(247,10): message : este argumento se utiliza como un tamaño de búfer
+  Recreativos.vcxproj -> C:\Users\EliteB\AppData\Local\Temp\Rar$DRa6540.1048\Recreativos\x64\Debug\Recreativos.exe
