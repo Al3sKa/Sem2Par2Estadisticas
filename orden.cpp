@@ -18,7 +18,7 @@ Inicio:
 	system("cls");
 	system("color 7");
 
-	printf("ESTADISTICAS V1.1 BETA Originalmente por Ricardo Albarran \n\n"
+	printf("Queti \n\n"
 		"(PD: Dije que se inspiraran no que copiaran el codigo -.-) \n\n"
 		"Escriba un numero: ");
 	fflush(stdout);
